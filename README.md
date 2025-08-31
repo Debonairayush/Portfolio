@@ -1,9 +1,11 @@
 # 🌐 Portfolio Website   
 
 ## 📖 About the Project  
-This project is a ** portfolio website** developed as part of the assignment provided by **Josh Technology Group**.  
+This project is a **portfolio website** developed as part of the assignment provided by **Josh Technology Group**.  
 
 The portfolio showcases **skills, projects, and experience** with a clean and responsive design.  
+
+🔗 Live Demo: [Portfolio Website](https://assignmnet-josh.netlify.app/)  
 
 ---
 
